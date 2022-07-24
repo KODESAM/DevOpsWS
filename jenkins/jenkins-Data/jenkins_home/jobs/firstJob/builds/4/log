@@ -1,0 +1,13 @@
+Started by user [8mha:////4EYF/UDTXqsw1WvFUg++5u2cgISkARS/AoXGrlW8fc24AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZe/dLi1CL9rNS87My8YgABJh63wgAAAA==[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstJob
+[firstJob] $ /bin/sh -xe /tmp/jenkins14889741303648659569.sh
++ date
++ echo my first job at Fri Jul 22 18:41:29 UTC 2022
+my first job at Fri Jul 22 18:41:29 UTC 2022
++ NAME=Aamir
++ NAME
+/tmp/jenkins14889741303648659569.sh: 4: NAME: not found
++ date
++ echo excecuted by  at Fri Jul 22 18:41:29 UTC 2022
+Finished: SUCCESS

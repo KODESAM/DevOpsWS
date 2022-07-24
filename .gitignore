@@ -1,0 +1,5 @@
+jenkinsWS/jenkins/jenkins-Data/
+*.DS_Store
+remote-key
+jenkinsWS/jenkins/jenkins-Data/jenkins_home
+remote-key.pub

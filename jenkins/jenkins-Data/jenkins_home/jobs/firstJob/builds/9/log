@@ -1,0 +1,14 @@
+Started by user [8mha:////4EYF/UDTXqsw1WvFUg++5u2cgISkARS/AoXGrlW8fc24AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZe/dLi1CL9rNS87My8YgABJh63wgAAAA==[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstJob
+[firstJob] $ /bin/sh -xe /tmp/jenkins13481517748867112693.sh
++ FIRST_NAME=mac
++ LAST_NAME=pro
++ date
++ echo my first job at Fri Jul 22 18:56:21 UTC 2022
+my first job at Fri Jul 22 18:56:21 UTC 2022
++ date
++ echo excecuted by  at Fri Jul 22 18:56:21 UTC 2022
++ /tmp/script.sh mac pro
+my shell script on jenkins by Syed Aamir
+Finished: SUCCESS

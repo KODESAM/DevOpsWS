@@ -1,0 +1,9 @@
+Started by user [8mha:////4EYF/UDTXqsw1WvFUg++5u2cgISkARS/AoXGrlW8fc24AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZe/dLi1CL9rNS87My8YgABJh63wgAAAA==[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstJob
+[firstJob] $ /bin/sh -xe /tmp/jenkins18352767104839396850.sh
++ [true = TRUE]
+/tmp/jenkins18352767104839396850.sh: 2: [true: not found
++ echo null
+null
+Finished: SUCCESS
