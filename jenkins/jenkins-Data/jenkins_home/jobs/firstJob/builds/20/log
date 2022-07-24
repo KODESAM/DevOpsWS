@@ -1,8 +1,0 @@
-Started by user [8mha:////4EYF/UDTXqsw1WvFUg++5u2cgISkARS/AoXGrlW8fc24AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZe/dLi1CL9rNS87My8YgABJh63wgAAAA==[0madmin
-Running as SYSTEM
-Building in workspace /var/jenkins_home/workspace/firstJob
-[firstJob] $ /bin/sh -xe /tmp/jenkins5963285812707598001.sh
-+ true=True
-/tmp/jenkins5963285812707598001.sh: 2: true=True: not found
-Build step 'Execute shell' marked build as failure
-Finished: FAILURE
